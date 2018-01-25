@@ -1,0 +1,21 @@
+~name=Bees a la Venom, delay=1100, gravity=2, music=level.wav, red=97, green=138, blue=221
+zzzzzzddddzz
+zzzzzddddzzz
+zzzzzddddzzz
+zzzzzzdddzzz
+zzzzzzzdddzz
+zzzzzzzzdddz
+zzzzzzzzzddd
+zzzzzzzzzzdd
+zzzzzzzzzzdd
+zzzzzzzzzddd
+zzzzzzzzdddz
+zzzzz-ddd-zz
+z-dddd-zzzzz
+zz-dddd-zzzz
+zzzzzzdddzzz
+zzzzzzzzdddz
+zzzzzzzzzddd
+zzzzzzzzzddd
+zzzzzzzzdddz
+zzzzzdddzzzz

@@ -1,0 +1,21 @@
+~name=More is Always Better,delay=1500, gravity=1, music=level.wav, red=212, green=85, blue=0
+----bbbb----
+---abbb-----
+---abbb-----
+----abb-----
+------aa----
+------aba---
+--------aba-
+---------aa-
+---------aa-
+-------aaa--
+-------aa---
+----aabb----
+-aaa--------
+-bbaa-------
+---bbaa-----
+-----aba----
+------aa----
+------aba---
+------aa----
+----aa------
